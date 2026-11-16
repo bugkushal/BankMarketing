@@ -1,0 +1,7 @@
+Finding ID: F-001
+Question: What was the overall subscription rate?
+Total records: 45,211
+Yes outcomes: 5,289
+No outcomes: 39,922
+Subscription rate: 11.70%
+Interpretation: Establishes the baseline for segment comparisons; does not establish profitability or causal effectiveness.
